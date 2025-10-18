@@ -31,7 +31,7 @@ body{
 }
 
 #name{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
     color: white;
     white-space: nowrap;
@@ -43,7 +43,7 @@ body{
   }
 
 #job{
-    font-size: 20px;
+    font-size:1.2rem;
     font-weight: bold;
     color: rgba(255, 255, 255, 0.557);
     white-space: nowrap;
@@ -69,14 +69,14 @@ body{
   }
   
 #subheadlings b{
-font-size: 20px;
+font-size: 1.2rem;
 font-weight: bold;
 font-family: Georgia, 'Times New Roman', Times, serif;
 color: blueviolet;
 }             
 #about{
 height: 400px;
-font-size: 25px;
+font-size: 1.2rem;
 
 
 }
@@ -89,7 +89,7 @@ background-color: blueviolet;
 margin: 0px 20px 0px;
 }
 #me{
-font-size: 25px;
+font-size: 1.5rem;
 
 }
 
@@ -97,13 +97,13 @@ font-size: 25px;
 height: 200px;
 width: 80vw;
 position: relative;
-left: 60px;
-margin: 30px;
-padding: 10px;
+left: 3rem;
+margin: 3rem;
+padding: 2rem;
 
 }
 .sub .box{
-margin: 15px;
+margin: 1.5rem;
 }
 
 
@@ -112,8 +112,8 @@ height: 40px;
 width: 30vw;
 background:linear-gradient(to right, #0f0c29, #302b63, #24243e);
 color: white;
-margin: 20px;
-font-size: 20px;
+margin: 2rem;
+font-size: 1.2rem;
 animation: front 3s ease-in-out infinite;
 }
 @keyframes front {
@@ -124,10 +124,10 @@ animation: front 3s ease-in-out infinite;
 }
 #tab{
 
-height: 300px;
-width: 320px;
+height: 500px;
+width: 420px;
 background:linear-gradient(to right, #0f0c29, #302b63, #24243e);
-margin-top: 50px;
+margin-top: 1rem;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -137,8 +137,8 @@ justify-content: center;
 }
 #tab tr td{
 border: 2px solid #24243e;
-margin-top: 30px;
-padding: 5px;
+margin-top: 3rem;
+padding: 1.5rem;
 
 
 
@@ -163,21 +163,21 @@ justify-content: center;
 
 }
 #non-tech{
-height: 400px;
+height: 500px;
 
 }
 #project{
 height: 400px;
 }
 #project li{
-font-size: 20px;
-margin:40px 30px;
-line-height: 30px;
+font-size: 1.5rem;
+margin:1.5rem 1.5rem;
+line-height: 2.5rem;
 }
 
 #project li h3{
-font-size: 25px;
-line-height: 30px;
+font-size: 1.5rem;
+line-height: 2.5rem;
 
 }
 
@@ -252,16 +252,16 @@ height: 600px;
 }
 #but{
 background:linear-gradient(to right, #0f0c29, #302b63, #24243e) ;
-border-radius: 10px;
+border-radius: 1rem;
 border: solid 2px;
 height: 50px;
-font-size: 20px;
+font-size: 1.2rem;
 color: white;
-padding: 20px;
+padding: 2rem;
 display: flex;
 align-items: center;
 justify-content: center;
-margin: 20px;
+margin: 2rem;
 }
 
 
