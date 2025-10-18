@@ -172,12 +172,12 @@ height: 400px;
 #project li{
 font-size: 1.5rem;
 margin:1.5rem 1.5rem;
-line-height: 2.5rem;
+line-height: 2.2rem;
 }
 
 #project li h3{
 font-size: 1.5rem;
-line-height: 2.5rem;
+line-height: 2.2rem;
 
 }
 
@@ -196,8 +196,8 @@ background: #1f1f2e;
 border: 2px solid #a18cd1;
 border-radius: 15px;
 overflow: hidden;
-height: 130px;
-width: 900px;
+height: 13vh;
+width:50vw;
 text-align: center;
 transition: background 0.3s ease;
 cursor: pointer;
@@ -263,6 +263,7 @@ align-items: center;
 justify-content: center;
 margin: 2rem;
 }
+
 
 
 
